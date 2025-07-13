@@ -1,0 +1,6 @@
+runtime/
+*.class
+*.exe
+*.ico
+.vscode/
+dist/
